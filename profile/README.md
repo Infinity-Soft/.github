@@ -8,7 +8,7 @@
 
 # 프로젝트
 
-- [Infinity Community]()
+- [Infinity Community](https://github.com/Infinity-Soft/Infinity-Plan/blob/main/community/intro.md)
 
 # 후원
 
